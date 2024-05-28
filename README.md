@@ -37,7 +37,8 @@ This template ships with Google Gemini `models/gemini-1.0-pro-001` as the defaul
 
 You can deploy your own version of the Next.js AI Chatbot to Vercel with one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-title=Next.js+Chat&demo-description=A+full-featured%2C+hackable+Next.js+AI+chatbot+built+by+Vercel+Labs&demo-url=https%3A%2F%2Fchat.vercel.ai%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F4aVPvWuTmBvzM5cEdRdqeW%2F4234f9baf160f68ffb385a43c3527645%2FCleanShot_2023-06-16_at_17.09.21.png&project-name=Next.js+Chat&repository-name=nextjs-chat&repository-url=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fgemini-chatbot&from=templates&skippable-integrations=1&env=GOOGLE_GENERATIVE_AI_API_KEY%2CAUTH_SECRET&envDescription=How+to+get+these+env+vars&envLink=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fgemini-chatbot%2Fblob%2Fmain%2F.env.example&teamCreateStatus=hidden&stores=[{%22type%22:%22kv%22}])
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-title=IAA+UFES&demo-description=Inteligencia+Artificial+Assistente+para+a+comunidade+Ufes%2C+usando+Next.js+e+a+API+de+Google+Gemini&demo-url=https%3A%2F%2Fiaa-ufes.vercel.app%2F&demo-image=https%3A%2F%2Fraw.githubusercontent.com%2Frenan-fa%2Fiaa_ufes%2Fmain%2Fpublic%2Fimages%2FIAA-UFES.png&project-name=IAA+UFES+Chatbot&repository-name=iaa_ufes&repository-url=https%3A%2F%2Fgithub.com%2Frenan-fa%2Fiaa_ufes&from=templates&skippable-integrations=1&env=GOOGLE_GENERATIVE_AI_API_KEY%2CAUTH_SECRET&envDescription=Como+obter+essas+vari%C3%A1veis+de+ambiente&envLink=https%3A%2F%2Fgithub.com%2Frenan-fa%2Fiaa_ufes%2Fblob%2Fmain%2F.env.example&teamCreateStatus=hidden&stores=%5B%7B%22type%22%3A%22kv%22%7D%5D)
+
 
 ## Running locally
 
